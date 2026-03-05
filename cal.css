@@ -55,7 +55,9 @@ button {
 }
 
 button:hover {
-  background: #718093;
+   background: #3d4446;
+  transform: translateY(-2px);
+  color: #00d2ff;
 }
 
 button:active {
@@ -74,3 +76,4 @@ button:active {
 #eqBtn:hover {
   background: #c23616;
 }
+
